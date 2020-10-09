@@ -17,7 +17,7 @@ This is a open source project. We love & appriciate contributions.
 ## Contributing & PR
 
 ***Before making any changes read the [CONTRIBUTING GUIDELINE.](/CONTRIBUTING.md)<br/>
-All the necessary instructions for succesing you PR are givven there.***
+All the necessary instructions for succesing your PR are given there.***
 
 <br/><br/>
 
