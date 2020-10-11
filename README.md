@@ -2,8 +2,12 @@
 
 <img width='900px' src='https://miro.medium.com/max/2560/1*On6AtQhoMSntm-D63c8XoQ.jpeg'/>
 
-**This is a temporary repo. It is made specially for the Hacktober Fest 2020. I am probably going to archive it after the event.
-  I really haven't contributed to open source before. There are a lot like me, so this is for them basically. You can practice by making any kind of algorithm, language, contibutions. I will accept all the legit pull requests.**<br/>
+This is a temporary repo. It is made specially for the Hacktober Fest 2020. I am probably going to archive it after the event.
+  I really haven't contributed to open source before. There are a lot like me, so this is for them basically. You can practice by making any kind of algorithm, language, contibutions. I will accept all the legit pull requests.<br/>
+  
+  
+  Data Structures, Algorithms and various real life Coding implementations by various open-source contributors.<br/><br/>
+**Open to contributions for Hacktoberfest to get started with github, and other open source collaboration**
   
 ## Licence
 
