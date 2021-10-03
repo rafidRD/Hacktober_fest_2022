@@ -1,6 +1,6 @@
 # Hacktober_fest_2020
 
-<img width='900px' src='https://miro.medium.com/max/2560/1*On6AtQhoMSntm-D63c8XoQ.jpeg'/>
+<img width='900px' src='https://res.cloudinary.com/practicaldev/image/fetch/s--T__NDHd5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w0shqntyjc5vyfuyn5bg.png'/>
 
 This is a temporary repo. It is made specially for the Hacktober Fest 2020. I am probably going to archive it after the event.
   I really haven't contributed to open source before. There are a lot like me, so this is for them basically. You can practice by making any kind of algorithm, language, contibutions. I will accept all the legit pull requests.<br/>
